@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jennnyyy
 - 👀 I’m interested in learning new languages, and love writing. 
-- 🌱 I’m currently in the MLH Program Fellowship
-- 💞️ I’m looking to collaborate with Lydia Farag for the SMILE Project.
+- 🌱 I’m currently... a STIP SUB for Greenleaf Elementary for the OUSD District. 
+- 💞️ I’m looking to collaborate in new projects.
 - 📫 How to reach me: Jenniferfloressoto2019@gmail.com
 
 <!---
