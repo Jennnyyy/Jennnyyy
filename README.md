@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jennnyyy
 - 👀 I’m interested in learning new languages, and love writing. 
-- 🌱 I’m currently... a STIP SUB for Greenleaf Elementary for the OUSD District. 
+- 🌱 I’m currently... a STIP SUB at Greenleaf Elementary for the OUSD District. 
 - 💞️ I’m looking to collaborate in new projects.
 - 📫 How to reach me: Jenniferfloressoto2019@gmail.com
 
