@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @Jennnyyy
-- 👀 I’m interested in learning new languages, and love writing. 
-- 🌱 I’m currently... a STIP SUB at Greenleaf Elementary for the OUSD District. 
-- 💞️ I’m looking to collaborate in new projects.
+- 👀 I’m interested in learning more about AI and Machine Learning.
+- 🌱 I’m currently... a Graduate Student @ Northeastern University. 
+- 💞️ I’m looking to collaborate on new projects.
 - 📫 How to reach me: Jenniferfloressoto2019@gmail.com
 
 <!---
 Jennnyyy/Jennnyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
 
 
