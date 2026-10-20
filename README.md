@@ -14,12 +14,15 @@ You can click the Preview link to view your changes.
 I'm currently taking online courses to practice Python.<br>I enjoy participating in hackathons.<br>I like trying new coffee/matcha places.<br>I love hiking. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefloress/)
  
 
 
-### ✍️ Random Dev GIPHY
-![](https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e478tpimes6w04ab8mxhmi9kut2bndvllgfma25vhf1&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+## 🐛 It's not a bug. It's an unexpected feature.
+
+![Funny software engineer GIF](https://media.giphy.com/media/ehw7lcf9szJJfJKGSJ/giphy.gif)
+
+*Currently debugging my way to greatness. 💻*
 
 
   
