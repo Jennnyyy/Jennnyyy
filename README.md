@@ -14,7 +14,7 @@ You can click the Preview link to view your changes.
 I'm currently in a master program.<br>I love hiking. <br>I love discovering new coffee/matcha places.<br>I love participating in hackathons. 
 
 ## 🌐 Socials:
-(https://instagram.com/floresszz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
  
 
 
