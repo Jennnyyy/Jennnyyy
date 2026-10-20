@@ -11,7 +11,7 @@ You can click the Preview link to view your changes.
 
 
 # 💫 About Me:
-I'm currently in a master program.<br>I love hiking. <br>I love discovering new coffee/matcha places.<br>I love participating in hackathons. 
+I'm currently taking online courses to practice Python.<br>I enjoy participating in hackathons.<br>I like trying new coffee/matcha places.<br>I love hiking. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
